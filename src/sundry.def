@@ -1,0 +1,4 @@
+LIBRARY sundry.dll
+
+EXPORTS
+bar=displayMessage
