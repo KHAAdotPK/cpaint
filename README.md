@@ -11,6 +11,8 @@ The envisioned virtual space, which I mentioned earlier, is intended to function
 
 cpaint relies on the zlib library for PNG compression. You can download the zlib library from [zlib.net](http://zlib.net/).
 
+## Included Asset
+
 An example asset created using cpaint is available for demonstration:
 
 ![A sample PNG file created with cpaint.](./gigo.png)
