@@ -7,6 +7,10 @@ At its current stage, cpaint allows users to draw and save their creations as PN
 
 The envisioned virtual space, which I mentioned earlier, is intended to function as a metaverse—an immersive digital realm where users can interact and explore.
 
+## Dependency
+
+cpaint relies on the zlib library for PNG compression. You can download the zlib library from [zlib.net](http://zlib.net/).
+
 An example asset created using cpaint is available for demonstration:
 
 ![A sample PNG file created with cpaint.](./gigo.png)
