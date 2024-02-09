@@ -9,7 +9,7 @@ The envisioned virtual space, which I mentioned earlier, is intended to function
 
 An example asset created using cpaint is available for demonstration:
 
-- [gigo.png](gigo.png): A sample PNG file created with cpaint.
+![A sample PNG file created with cpaint.](./gigo.png)
 
 ### License
 This project is governed by a license, the details of which can be located in the accompanying file named 'LICENSE.' Please refer to this file for comprehensive information.
